@@ -884,6 +884,12 @@
     background: var(--bs-dark);
     border-top: 1px solid rgba(255, 255, 255, .08);
 }
+@media (max-width: 450px) {
+  
+    .text-primary mb-0 {
+        font-size: 25px;
+    }
+}
 /*** copyright end ***/
 
 
